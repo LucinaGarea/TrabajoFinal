@@ -1,0 +1,87 @@
+#imagen1{
+    position: absolute;
+    margin-top: 30px;
+    left: 50px;
+}
+
+.caja1{
+    border-color: pink;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    width: 500px;
+    height: 30px;
+    float: left;
+    left: 450px;
+    margin-top: 45px;
+    position: relative;
+    border-style: double;
+    
+
+
+}
+
+.menu{
+   
+    text-align:center;
+    margin-top: 77px;
+    position:absolute;
+    width: 1340px;
+    height: 40px;
+   
+    
+  }
+  .menu li {
+    list-style: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: inline-block;
+    padding: 20px;
+    margin-top: 17px;
+    position: relative;
+  }
+
+  .productos{
+    text-align:center;
+    margin-top: 77px;
+    position:absolute;
+    width: 1340px;
+    height: 40px;
+    
+  }
+
+  .productos li{
+    list-style: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: inline-block;
+    padding: 20px;
+    margin-top: 80px;
+    position: relative;
+  }
+
+ .caja4{
+    margin-top: 240px;
+    position: absolute;
+    display: inline-block;
+    text-align: center;
+    width: 300px;
+    height: 200px;
+    
+ }
+ .caja5{
+    margin-top: 240px;
+    position: absolute;
+    width: 243px;
+    height: 250px;
+    text-align: center;
+    left: 100px;
+
+ }
+
+ .caja6{
+    margin-top: -385px;
+    position: absolute;
+    width: 240px;
+    height: 170px;
+    text-align: center;
+    left: 850px;
+    
+ }
